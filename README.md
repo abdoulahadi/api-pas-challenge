@@ -36,6 +36,7 @@ Pour utiliser cette API sur votre propre système, suivez ces étapes :
    ```bash
     python -m venv venv
     source venv/bin/activate  # Sous Windows, utilisez 'venv\Scripts\activate'
+    pip install -r requirements.txt
 
 3. Lancez l'application FastAPI :
    ```bash
