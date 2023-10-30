@@ -29,7 +29,7 @@ Pour utiliser cette API sur votre propre système, suivez ces étapes :
 
 1. Clônez le référentiel depuis GitHub :
    ```bash
-    git clone https://github.com/votre-utilisateur/api-pas-challenge.git
+    git clone https://github.com/abdoulahadi/api-pas-challenge.git
     cd api-pas-challenge
 
 2. Installez les dépendances en créant un environnement virtuel :
